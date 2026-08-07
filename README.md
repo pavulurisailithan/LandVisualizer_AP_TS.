@@ -390,6 +390,7 @@ This project is licensed under the MIT License.
 
 💻 GitHub: https://github.com/pavulurisailithan
 
+live link: https://pavulurisailithan.github.io/LandVisualizer_AP_TS./
 ---
 
 # 🙏 Acknowledgements
